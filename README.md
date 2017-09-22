@@ -5,7 +5,7 @@
 
 [441-Lotto](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=382)
 
-[05-The Skyline Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=41) (Hint: Use array index)
+[105-The Skyline Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=41) (Hint: Use array index)
 
 [Parallelepiped](http://codeforces.com/problemset/problem/224/A) (Can you do it with one loop?)
 ###### Fancy Technique With Loop:

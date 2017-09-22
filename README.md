@@ -1,5 +1,4 @@
 # Competitive Programming Problem List
---------------------------------------------
 
 ### Learn to Loop:
 [10976-Fractions Again?!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1917)

@@ -34,3 +34,10 @@
 
 [Hardwood Species](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1167) (Map it through)
 
+[Add All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1895) (Priority Queue)
+
+[A mid-summer night's dream.](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=998) (A bit hard for non math savvy)
+
+[Printer Queue](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3252) (Queue simulation)
+
+[Containers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3503) (Stack simulation)

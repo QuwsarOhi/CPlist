@@ -41,3 +41,9 @@
 [Printer Queue](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3252) (Queue simulation)
 
 [Containers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3503) (Stack simulation)
+
+
+### Recursion Saves Thinking Time:
+[CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=565) (Also solvabe with fancy techniques)
+
+[8 Queens Chess Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=691) (A famous problem :p)

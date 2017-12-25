@@ -19,7 +19,9 @@
 ### Game Problems :
 ###### Easy:
 [Game With Sticks](http://codeforces.com/problemset/problem/451/A) (At most 10 lines)
+
 [Godsend](http://codeforces.com/contest/841/problem/B) (At most 10 lines, Number Theory)
+
 [A Multiplication Game](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=788) (Find Patterns/Just Simulate?)
 
 ### Just Simulate:
@@ -27,6 +29,8 @@
 
 ### Brush Up STL:
 [Anargam](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=131) (Watch out for the sorting technique!)
+
 [Pseudo-Random Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=286) (Map it through)
+
 [Hardwood Species](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1167) (Map it through)
 

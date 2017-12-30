@@ -47,3 +47,9 @@
 [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=565) (Also solvabe with fancy techniques)
 
 [8 Queens Chess Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=691) (A famous problem :p)
+
+### Number Theory:
+[Multipliers](http://codeforces.com/problemset/problem/615/D) (Number Theory With Modular Arithmatic on exponentiation)
+
+###Graph:
+[Maze](http://codeforces.com/problemset/problem/377/A) (BFS, DFS, FloodFill)

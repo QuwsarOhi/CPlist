@@ -53,3 +53,7 @@
 
 ###Graph:
 [Maze](http://codeforces.com/problemset/problem/377/A) (BFS, DFS, FloodFill)
+
+
+### Miscellaneous:
+[Ice Skating](http://codeforces.com/contest/217/problem/A) (Union Disjoint, DFS.. Vertex Cover)

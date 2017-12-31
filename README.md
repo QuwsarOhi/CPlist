@@ -51,7 +51,7 @@
 ### Number Theory:
 [Multipliers](http://codeforces.com/problemset/problem/615/D) (Number Theory With Modular Arithmatic on exponentiation)
 
-###Graph:
+### Graph:
 [Maze](http://codeforces.com/problemset/problem/377/A) (BFS, DFS, FloodFill)
 
 

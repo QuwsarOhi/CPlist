@@ -59,3 +59,9 @@
 
 ### Miscellaneous:
 [Ice Skating](http://codeforces.com/contest/217/problem/A) (Union Disjoint, DFS.. Vertex Cover)
+
+
+### Segment Tree:
+Do all LightOJ problems from Segment Tree Category
+[GCD 2010](http://acm.timus.ru/problem.aspx?space=1&num=1846)
+[Ant Colony](http://codeforces.com/contest/474/problem/F)

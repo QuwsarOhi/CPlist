@@ -68,6 +68,10 @@ Do all LightOJ problems from Segment Tree Category
 
 [Ant Colony](http://codeforces.com/contest/474/problem/F)
 
+[Destiny](http://codeforces.com/contest/840/problem/D) (Persistant Segment Tree)
+
+[Ant Colony](http://codeforces.com/problemset/problem/474/F) (Persistant Segment Tree + Basic Segment Tree)
+
 
 ### DP:
 [Divisibility by Eight](http://codeforces.com/contest/550/problem/C)  (Basic Digit DP)

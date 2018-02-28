@@ -67,3 +67,9 @@ Do all LightOJ problems from Segment Tree Category
 [GCD 2010](http://acm.timus.ru/problem.aspx?space=1&num=1846)
 
 [Ant Colony](http://codeforces.com/contest/474/problem/F)
+
+
+### DP:
+[Divisibility by Eight](http://codeforces.com/contest/550/problem/C)  (Basic Digit DP)
+
+[Color the Fence](http://codeforces.com/contest/349/problem/B) (Try DP with almost Same State Occurance + Path Printing)

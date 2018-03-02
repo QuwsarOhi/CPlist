@@ -73,6 +73,13 @@ Do all LightOJ problems from Segment Tree Category
 [Ant Colony](http://codeforces.com/problemset/problem/474/F) (Persistant Segment Tree + Basic Segment Tree)
 
 
+### Trie(Prefix Tree):
+Do all LightOj problems from Trie
+
+[SPOJ - SUBXOR](http://www.spoj.com/problems/SUBXOR/) (Normal Trie with reverse bit gready approach)
+[A Lot of Games](http://codeforces.com/contest/455/problem/B) (Trie + DP + Game Theory)
+
+
 ### DP:
 [Divisibility by Eight](http://codeforces.com/contest/550/problem/C)  (Basic Digit DP)
 

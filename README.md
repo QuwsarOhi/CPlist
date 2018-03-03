@@ -56,6 +56,8 @@
 ### Graph:
 [Maze](http://codeforces.com/problemset/problem/377/A) (BFS, DFS, FloodFill)
 
+[Connected Components?](http://codeforces.com/contest/920/problem/E) (DFS with binary search!)
+
 
 ### Miscellaneous:
 [Ice Skating](http://codeforces.com/contest/217/problem/A) (Union Disjoint, DFS.. Vertex Cover)
@@ -64,9 +66,9 @@
 ### Segment Tree:
 Do all LightOJ problems from Segment Tree Category
 
-[GCD 2010](http://acm.timus.ru/problem.aspx?space=1&num=1846)
+Do GSS1, GSS3, GSS5, GSS4, GSS2 from SPOJ
 
-[Ant Colony](http://codeforces.com/contest/474/problem/F)
+[GCD 2010](http://acm.timus.ru/problem.aspx?space=1&num=1846)
 
 [Destiny](http://codeforces.com/contest/840/problem/D) (Persistant Segment Tree)
 
@@ -74,11 +76,38 @@ Do all LightOJ problems from Segment Tree Category
 
 [Simple Editor](https://www.codechef.com/problems/TAEDITOR) (Nice offline problem)
 
+[BRCKTS](http://www.spoj.com/problems/BRCKTS/) (Bracket Sequencing)
+
+[Sereja and Brackets](http://codeforces.com/contest/380/problem/C)
+
+[Lucky Queries](http://codeforces.com/problemset/problem/145/E)
+
+[KQUERYO](http://www.spoj.com/problems/KQUERYO/) (Segment tree as Merge Sort Tree)
+
+[On Changing Tree](http://codeforces.com/contest/396/problem/C) (Segment Tree + DFS Traversal on tree)
+
+[New Year Tree](http://codeforces.com/contest/620/problem/E) (Segment Tree + DFS Traversal on tree)
+
+[MKTHNUM](http://www.spoj.com/problems/MKTHNUM/) (Persistant Segment Tree + Binary Search)
+
+[COT](http://www.spoj.com/problems/COT/) (Persistant Segment Tree)
+
+[TTM](http://www.spoj.com/problems/TTM/) (Persistant Segment Tree)
+
+
+### Fenwick Tree / Binary Indexed Tree (BIT):
+
+All problems from LightOJ Binary Indexed Tree category
+
+[KQUERY](http://www.spoj.com/problems/KQUERY/) (BIT + offline)
+
+[KQUERY2](http://www.spoj.com/problems/KQUERY2/) (BIT + Square Root Decomposition)
 
 ### Trie(Prefix Tree):
 Do all LightOj problems from Trie
 
 [SUBXOR](http://www.spoj.com/problems/SUBXOR/) (Normal Trie with reverse bit gready approach)
+
 [A Lot of Games](http://codeforces.com/contest/455/problem/B) (Trie + DP + Game Theory)
 
 

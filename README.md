@@ -94,6 +94,7 @@ Do GSS1, GSS3, GSS5, GSS4, GSS2 from SPOJ
 
 [TTM](http://www.spoj.com/problems/TTM/) (Persistant Segment Tree)
 
+[DZY Loves Fibonacci Numbers](http://codeforces.com/contest/446/problem/C) (Segment Tree with some Fibonacci Tweaks)
 
 ### Fenwick Tree / Binary Indexed Tree (BIT):
 

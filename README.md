@@ -58,6 +58,7 @@
 
 [Connected Components?](http://codeforces.com/contest/920/problem/E) (DFS with binary search!)
 
+[King's Path](http://codeforces.com/contest/242/problem/C) (BFS/DFS ?)
 
 ### Miscellaneous:
 [Ice Skating](http://codeforces.com/contest/217/problem/A) (Union Disjoint, DFS.. Vertex Cover)

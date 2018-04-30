@@ -18,6 +18,9 @@
 
 [Lunch in Grid City](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=796) (A Nasty Graph problem?)
 
+[Alternating Sum](http://codeforces.com/contest/964/problem/C) (Geometric Sequence)
+
+
 ### Game Problems :
 ###### Easy:
 [Game With Sticks](http://codeforces.com/problemset/problem/451/A) (At most 10 lines)

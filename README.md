@@ -63,6 +63,8 @@
 
 [King's Path](http://codeforces.com/contest/242/problem/C) (BFS/DFS ?)
 
+[Numbering Paths UVa-125](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=61) (Cycle detection and path counting, BFS/DFS)
+
 ### Miscellaneous:
 [Ice Skating](http://codeforces.com/contest/217/problem/A) (Union Disjoint, DFS.. Vertex Cover)
 

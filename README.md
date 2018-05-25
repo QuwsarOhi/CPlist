@@ -122,3 +122,5 @@ Do all LightOj problems from Trie
 [Divisibility by Eight](http://codeforces.com/contest/550/problem/C)  (Basic Digit DP)
 
 [Color the Fence](http://codeforces.com/contest/349/problem/B) (Try DP with almost Same State Occurance + Path Printing)
+
+[UVa 166 - Making Change](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=102) (Coin Change)

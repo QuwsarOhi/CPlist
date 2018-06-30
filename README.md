@@ -127,8 +127,8 @@ Do all LightOj problems from Trie
 
 [UVa 166 - Making Change](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=102) (Coin Change)
 
-[Yet Another Problem On a Subsequence] (http://codeforces.com/contest/1000/problem/D) (DP + Counting)
+[Yet Another Problem On a Subsequence](http://codeforces.com/contest/1000/problem/D) (DP + Counting)
 
 
 ## MO's Algo:
-[One Occurrence] (http://codeforces.com/contest/1000/problem/F) (Need to use fast comparison technique & each insertion deletion must be done in O(1), we can spend some time in query.. (HINT : Apply Sqrt Decomposition))
+[One Occurrence](http://codeforces.com/contest/1000/problem/F) (Need to use fast comparison technique & each insertion deletion must be done in O(1), we can spend some time in query.. (HINT : Apply Sqrt Decomposition))

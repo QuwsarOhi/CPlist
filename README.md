@@ -126,3 +126,9 @@ Do all LightOj problems from Trie
 [Color the Fence](http://codeforces.com/contest/349/problem/B) (Try DP with almost Same State Occurance + Path Printing)
 
 [UVa 166 - Making Change](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=102) (Coin Change)
+
+[Yet Another Problem On a Subsequence] (http://codeforces.com/contest/1000/problem/D) (DP + Counting)
+
+
+## MO's Algo:
+[One Occurrence] (http://codeforces.com/contest/1000/problem/F) (Need to use fast comparison technique & each insertion deletion must be done in O(1), we can spend some time in query.. (HINT : Apply Sqrt Decomposition))

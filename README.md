@@ -132,3 +132,11 @@ Do all LightOj problems from Trie
 
 ## MO's Algo:
 [One Occurrence](http://codeforces.com/contest/1000/problem/F) (Need to use fast comparison technique & each insertion deletion must be done in O(1), we can spend some time in query.. (HINT : Apply Sqrt Decomposition))
+
+
+## Disjoint Set Union:
+[Anansi's Cobweb](http://acm.timus.ru/problem.aspx?space=1&num=1671) (Offline DSU)
+
+[Gears](https://www.codechef.com/JULY18B/problems/GEARS) (Weighted DSU for bipartite matching)
+
+[D - Dream Team](http://codeforces.com/gym/101840) (Maximum GCD finding and Tree Building using DSU)

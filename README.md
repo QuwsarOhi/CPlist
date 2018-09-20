@@ -140,3 +140,8 @@ Do all LightOj problems from Trie
 [Gears](https://www.codechef.com/JULY18B/problems/GEARS) (Weighted DSU for bipartite matching)
 
 [D - Dream Team](http://codeforces.com/gym/101840) (Maximum GCD finding and Tree Building using DSU)
+
+## Multiple Algorithm Problems:
+[Longest Common Prefix](https://www.spoj.com/problems/STRLCP/) (Hash + Segment Tree + Offline(Reverse Calculation))
+
+[Sherlock and Unique Substrings](https://www.hackerrank.com/contests/101hack26/challenges/sherlock-and-unique-substrings/problem) (Suffix Array + Segment Tree + Offline)

@@ -145,3 +145,5 @@ Do all LightOj problems from Trie
 [Longest Common Prefix](https://www.spoj.com/problems/STRLCP/) (Hash + Segment Tree + Offline(Reverse Calculation))
 
 [Sherlock and Unique Substrings](https://www.hackerrank.com/contests/101hack26/challenges/sherlock-and-unique-substrings/problem) (Suffix Array + Segment Tree + Offline)
+
+[Sherlock and Queries on the Graph](https://www.hackerrank.com/contests/101hack26/challenges/sherlock-and-queries-on-the-graph/problem) (LCA + DFS Timing for child node finding)

@@ -104,6 +104,7 @@ Do GSS1, GSS3, GSS5, GSS4, GSS2 from SPOJ
 
 [DZY Loves Fibonacci Numbers](http://codeforces.com/contest/446/problem/C) (Segment Tree with some Fibonacci Tweaks)
 
+
 ### Fenwick Tree / Binary Indexed Tree (BIT):
 
 All problems from LightOJ Binary Indexed Tree category
@@ -142,6 +143,9 @@ Do all LightOj problems from Trie
 [Dream Team](http://codeforces.com/gym/101840) (Maximum GCD finding and Tree Building using DSU)
 
 [Maximum Distance](https://codeforces.com/contest/1081/problem/D) (Finding if an edge lies between two node's path)
+
+[Ice Skating](http://codeforces.com/contest/217/problem/A) 
+
 
 ## Multiple Algorithm Problems:
 [Longest Common Prefix](https://www.spoj.com/problems/STRLCP/) (Hash + Segment Tree + Offline(Reverse Calculation))

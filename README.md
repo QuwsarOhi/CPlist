@@ -139,7 +139,9 @@ Do all LightOj problems from Trie
 
 [Gears](https://www.codechef.com/JULY18B/problems/GEARS) (Weighted DSU for bipartite matching)
 
-[D - Dream Team](http://codeforces.com/gym/101840) (Maximum GCD finding and Tree Building using DSU)
+[Dream Team](http://codeforces.com/gym/101840) (Maximum GCD finding and Tree Building using DSU)
+
+[Maximum Distance](https://codeforces.com/contest/1081/problem/D) (Finding if an edge lies between two node's path)
 
 ## Multiple Algorithm Problems:
 [Longest Common Prefix](https://www.spoj.com/problems/STRLCP/) (Hash + Segment Tree + Offline(Reverse Calculation))

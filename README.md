@@ -1,6 +1,7 @@
 # Competitive Programming Problem List
 
 ### Learn to Loop:
+
 [10976-Fractions Again?!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1917)
 
 [441-Lotto](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=382)
@@ -14,6 +15,7 @@
 [12455 - Bars](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3886)
 
 ### Math:
+
 [Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B) (Know how mod works with negative values first!)
 
 [Lunch in Grid City](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=796) (A Nasty Graph problem?)
@@ -22,6 +24,7 @@
 
 
 ### Game Problems :
+
 ###### Easy:
 [Game With Sticks](http://codeforces.com/problemset/problem/451/A) (At most 10 lines)
 
@@ -30,9 +33,11 @@
 [A Multiplication Game](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=788) (Find Patterns/Just Simulate?)
 
 ### Just Simulate:
+
 [Traffic Lights](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=97)
 
 ### Brush Up STL:
+
 [Anargam](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=131) (Watch out for the sorting technique!)
 
 [Pseudo-Random Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=286) (Map it through)
@@ -49,6 +54,7 @@
 
 
 ### Recursion Saves Thinking Time:
+
 [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=565) (Also solvabe with fancy techniques)
 
 [8 Queens Chess Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=691) (A famous problem :p)
@@ -56,9 +62,11 @@
 [UVa 297 - Quadtrees](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=233) (Some DFS?)
 
 ### Number Theory:
+
 [Multipliers](http://codeforces.com/problemset/problem/615/D) (Number Theory With Modular Arithmatic on exponentiation)
 
 ### Graph:
+
 [Maze](http://codeforces.com/problemset/problem/377/A) (BFS, DFS, FloodFill)
 
 [Connected Components?](http://codeforces.com/contest/920/problem/E) (DFS with binary search!)
@@ -67,11 +75,25 @@
 
 [Numbering Paths UVa-125](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=61) (Cycle detection and path counting, BFS/DFS)
 
+
+# Tree
+
+[Tree with Maximum Cost](https://codeforces.com/contest/1092/problem/F) (Subtree Sum is needed)
+
+[Destruction of a Tree](https://codeforces.com/problemset/problem/964/D) (Tree Properties + Even Odd Edges)
+
+[Tree Construction](https://codeforces.com/problemset/problem/675/D) (Binary Heap Property)
+
+[Tree Requests](https://codeforces.com/problemset/problem/570/D) (Cumulative Frequencey + Binary Search + DFS/BFS)
+
+
 ### Miscellaneous:
+
 [Ice Skating](http://codeforces.com/contest/217/problem/A) (Union Disjoint, DFS.. Vertex Cover)
 
 
 ### Segment Tree:
+
 Do all LightOJ problems from Segment Tree Category
 
 Do GSS1, GSS3, GSS5, GSS4, GSS2 from SPOJ
@@ -113,7 +135,9 @@ All problems from LightOJ Binary Indexed Tree category
 
 [KQUERY2](http://www.spoj.com/problems/KQUERY2/) (BIT + Square Root Decomposition)
 
+
 ### Trie(Prefix Tree):
+
 Do all LightOj problems from Trie
 
 [SUBXOR](http://www.spoj.com/problems/SUBXOR/) (Normal Trie with reverse bit gready approach)
@@ -122,6 +146,7 @@ Do all LightOj problems from Trie
 
 
 ### DP:
+
 [Divisibility by Eight](http://codeforces.com/contest/550/problem/C)  (Basic Digit DP)
 
 [Color the Fence](http://codeforces.com/contest/349/problem/B) (Try DP with almost Same State Occurance + Path Printing)
@@ -136,6 +161,7 @@ Do all LightOj problems from Trie
 
 
 ## Disjoint Set Union:
+
 [Anansi's Cobweb](http://acm.timus.ru/problem.aspx?space=1&num=1671) (Offline DSU)
 
 [Gears](https://www.codechef.com/JULY18B/problems/GEARS) (Weighted DSU for bipartite matching)
@@ -148,6 +174,7 @@ Do all LightOj problems from Trie
 
 
 ## Multiple Algorithm Problems:
+
 [Longest Common Prefix](https://www.spoj.com/problems/STRLCP/) (Hash + Segment Tree + Offline(Reverse Calculation))
 
 [Sherlock and Unique Substrings](https://www.hackerrank.com/contests/101hack26/challenges/sherlock-and-unique-substrings/problem) (Suffix Array + Segment Tree + Offline)
@@ -156,14 +183,6 @@ Do all LightOj problems from Trie
 
 
 # All Pair Shortest Path
+
 [Roads in Berland](https://codeforces.com/contest/25/problem/C)  (Floyd Warshall)
 
-
-# Tree
-[Tree with Maximum Cost](https://codeforces.com/contest/1092/problem/F) (Subtree Sum is needed)
-
-[Destruction of a Tree](https://codeforces.com/problemset/problem/964/D) (Tree Properties + Even Odd Edges)
-
-[Tree Construction](https://codeforces.com/problemset/problem/675/D) (Binary Heap Property)
-
-[Tree Requests](https://codeforces.com/problemset/problem/570/D) (Cumulative Frequencey + Binary Search + DFS/BFS)

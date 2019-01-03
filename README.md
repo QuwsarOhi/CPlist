@@ -1,6 +1,6 @@
 # Competitive Programming Problem List
 
-### Learn to Loop:
+## Learn to Loop:
 
 [10976-Fractions Again?!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1917)
 
@@ -14,7 +14,8 @@
 
 [12455 - Bars](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3886)
 
-### Math:
+
+## Math:
 
 [Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B) (Know how mod works with negative values first!)
 
@@ -23,7 +24,7 @@
 [Alternating Sum](http://codeforces.com/contest/964/problem/C) (Geometric Sequence)
 
 
-### Game Problems :
+## Game Problems:
 
 ###### Easy:
 [Game With Sticks](http://codeforces.com/problemset/problem/451/A) (At most 10 lines)
@@ -32,11 +33,12 @@
 
 [A Multiplication Game](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=788) (Find Patterns/Just Simulate?)
 
-### Just Simulate:
+## Just Simulate:
 
 [Traffic Lights](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=97)
 
-### Brush Up STL:
+
+## Brush Up STL:
 
 [Anargam](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=131) (Watch out for the sorting technique!)
 
@@ -53,7 +55,7 @@
 [Containers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3503) (Stack simulation)
 
 
-### Recursion Saves Thinking Time:
+## Recursion Saves Thinking Time:
 
 [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=565) (Also solvabe with fancy techniques)
 
@@ -61,11 +63,13 @@
 
 [UVa 297 - Quadtrees](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=233) (Some DFS?)
 
-### Number Theory:
+
+## Number Theory:
 
 [Multipliers](http://codeforces.com/problemset/problem/615/D) (Number Theory With Modular Arithmatic on exponentiation)
 
-### Graph:
+
+## Graph:
 
 [Maze](http://codeforces.com/problemset/problem/377/A) (BFS, DFS, FloodFill)
 
@@ -76,7 +80,7 @@
 [Numbering Paths UVa-125](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=61) (Cycle detection and path counting, BFS/DFS)
 
 
-# Tree
+## Tree:
 
 [Tree with Maximum Cost](https://codeforces.com/contest/1092/problem/F) (Subtree Sum is needed)
 
@@ -87,12 +91,13 @@
 [Tree Requests](https://codeforces.com/problemset/problem/570/D) (Cumulative Frequencey + Binary Search + DFS/BFS)
 
 
-### Miscellaneous:
+## Miscellaneous:
 
 [Ice Skating](http://codeforces.com/contest/217/problem/A) (Union Disjoint, DFS.. Vertex Cover)
 
 
-### Segment Tree:
+
+## Segment Tree:
 
 Do all LightOJ problems from Segment Tree Category
 
@@ -127,7 +132,7 @@ Do GSS1, GSS3, GSS5, GSS4, GSS2 from SPOJ
 [DZY Loves Fibonacci Numbers](http://codeforces.com/contest/446/problem/C) (Segment Tree with some Fibonacci Tweaks)
 
 
-### Fenwick Tree / Binary Indexed Tree (BIT):
+## Fenwick Tree / Binary Indexed Tree (BIT):
 
 All problems from LightOJ Binary Indexed Tree category
 
@@ -136,7 +141,7 @@ All problems from LightOJ Binary Indexed Tree category
 [KQUERY2](http://www.spoj.com/problems/KQUERY2/) (BIT + Square Root Decomposition)
 
 
-### Trie(Prefix Tree):
+## Trie(Prefix Tree):
 
 Do all LightOj problems from Trie
 
@@ -145,7 +150,7 @@ Do all LightOj problems from Trie
 [A Lot of Games](http://codeforces.com/contest/455/problem/B) (Trie + DP + Game Theory)
 
 
-### DP:
+## DP:
 
 [Divisibility by Eight](http://codeforces.com/contest/550/problem/C)  (Basic Digit DP)
 
@@ -182,7 +187,7 @@ Do all LightOj problems from Trie
 [Sherlock and Queries on the Graph](https://www.hackerrank.com/contests/101hack26/challenges/sherlock-and-queries-on-the-graph/problem) (LCA + DFS Timing for child node finding)
 
 
-# All Pair Shortest Path
+## All Pair Shortest Path
 
 [Roads in Berland](https://codeforces.com/contest/25/problem/C)  (Floyd Warshall)
 

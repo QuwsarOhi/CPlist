@@ -96,7 +96,6 @@
 [Ice Skating](http://codeforces.com/contest/217/problem/A) (Union Disjoint, DFS.. Vertex Cover)
 
 
-
 ## Segment Tree:
 
 Do all LightOJ problems from Segment Tree Category

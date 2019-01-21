@@ -81,6 +81,8 @@
 
 [Numbering Paths UVa-125](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=61) (Cycle detection and path counting, BFS/DFS)
 
+[Kilani and the Game](https://codeforces.com/contest/1105/problem/D) (Multi-Source BFS)
+
 
 ## Tree:
 

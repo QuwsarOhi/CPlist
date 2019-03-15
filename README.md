@@ -94,6 +94,9 @@
 
 [Tree Requests](https://codeforces.com/problemset/problem/570/D) (Cumulative Frequencey + Binary Search + DFS/BFS)
 
+[Tree-String Problem](https://codeforces.com/contest/291/problem/E) (KMP basics + dfs)
+
+
 
 ## Miscellaneous:
 
@@ -195,4 +198,3 @@ Do all LightOj problems from Trie
 ## All Pair Shortest Path
 
 [Roads in Berland](https://codeforces.com/contest/25/problem/C)  (Floyd Warshall)
-

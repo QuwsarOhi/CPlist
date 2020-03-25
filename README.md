@@ -96,6 +96,10 @@
 
 [Tree-String Problem](https://codeforces.com/contest/291/problem/E) (KMP basics + dfs)
 
+[Jamie and Tree](https://codeforces.com/problemset/problem/916/E) (Interesting problem of a changing root of tree)
+
+[DRTREE](spoj.com/problems/DRTREE/)
+
 
 
 ## Miscellaneous:

@@ -17,7 +17,11 @@
 
 ## Math:
 
+**Hackerrank has excellent number theory, combinatorics, and geometry [tutorial](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/)**
+
 [Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B) (Know how mod works with negative values first!)
+
+[Divisible Pairs](https://codeforces.com/contest/1931/problem/D) (Modular arithmetic)
 
 [Lunch in Grid City](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=796) (A Nasty Graph problem?)
 
